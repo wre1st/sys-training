@@ -1,5 +1,5 @@
 # sys-training
-The project compose of 3 algorithms
+The project composed of 3 algorithms
 
 
 *Work on ArrayList and sorting algorithm
